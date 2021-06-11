@@ -1,4 +1,4 @@
-print(f'\33[7mNUTRIBALANCE\33[m')
+print(f'\33[7mCALCULE SEU IMC\33[m')
 
 
 altura = float(input('Qual su altura (m)? '))
